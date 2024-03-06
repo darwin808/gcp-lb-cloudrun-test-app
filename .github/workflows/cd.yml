@@ -77,4 +77,4 @@ jobs:
           --image gcr.io/$PROJECT_ID/$REPO_NAME:$GITHUB_SHA \
           --platform "managed" \
           --quiet \
-          --tag=latest
+          --tag=stable
