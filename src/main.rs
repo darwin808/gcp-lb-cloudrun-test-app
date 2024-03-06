@@ -3,7 +3,7 @@ use std::env;
 
 #[get("/")]
 async fn greet() -> impl Responder {
-    format!("Hello World Zesty - stable 👋!")
+    format!("Hello World Zesty - beta 👋!")
 }
 
 #[actix_web::main]
