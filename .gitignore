@@ -1,0 +1,7 @@
+/target/
+Cargo.lock
+
+# Ignore compiled binaries
+*.rsproj
+*.swp
+*.swotarget
